@@ -1,0 +1,1 @@
+enum BookStatus {waiting, active, done, canceled}
