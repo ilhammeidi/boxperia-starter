@@ -116,7 +116,7 @@ class MenuItem extends StatelessWidget {
                     width: 40,
                     decoration: BoxDecoration(
                       borderRadius: ThemeRadius.big,
-                      color: ThemePalette.primaryMain.withValues(alpha: isActive ? 0.15 : 0)
+                      color: ThemePalette.primaryMain.withValues(alpha: isActive ? 0.25 : 0)
                     ),
                   ),
                   Icon(icon, size: 24, color: isActive ? ThemePalette.primaryMain : Theme.of(context).colorScheme.onSurface),

@@ -111,11 +111,11 @@ class _HomeState extends State<Home> {
               const BasicHotelSlider(),
               const VSpace(),
               const FeaturedHomeSlider(),
-              const VSpace(),
+              const VSpaceBig(),
               const BasicHomeSlider(),
               const VSpace(),
               const FeaturedWorkspaceSlider(),
-              const VSpace(),
+              const VSpaceBig(),
               const BasicWorkspaceSlider(),
               const PartnersLogo(),
               const SizedBox(height: 100,)
