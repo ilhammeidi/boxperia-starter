@@ -18,7 +18,7 @@ class NotfoundStarter extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Uri urlFullVersion = Uri.parse('https://codecanyon.net/user/ilhammeidi/portfolio');
+    final Uri urlFullVersion = Uri.parse('https://codecanyon.net/item/boxperia-flutter-hotel-and-room-booking-app-ui-kit/59109506');
 
     return Padding(
       padding: EdgeInsets.all(spacingUnit(2)),
